@@ -1,7 +1,7 @@
-# Programmieraufgabe:
+# Programmieraufgabe
 
 ## Hinweis
-Falls dir die Aufgabe zu schwierig erscheint, versuche es trotzdem. Es geht dabei auch darum selbstständig das zu Erlernen, was einem fehlt um eine Aufgabe zu lösen. Wenn Du z.B. noch nie mit CSS Transitions gearbeitet hast, dann schau es im Internet nach ([CSS Tricks](https://css-tricks.com/almanac/properties/t/transition/)). Wenn Du dich von den anderen Begriffen erschlagen fühlst, dann nimm dir ein paar Tage Zeit um dich damit zu beschäftigen. Du hast so viel Zeit wie Du brauchst. Wir haben auch eine Liste mit kostenlosen Videokursen und Artikeln zur Web Entwicklung zusammengestellt, die DU dir anschauen kannst auch wenn du noch nie für das Internet programmiert hast:
+Falls dir die Aufgabe zu schwierig erscheint, versuche es trotzdem. Es geht dabei auch darum selbstständig das zu Erlernen, was einem fehlt um eine Aufgabe zu lösen. Wenn Du z.B. noch nie mit CSS Transitions gearbeitet hast, dann kannst Du das im Internet nachschauen ([CSS Tricks](https://css-tricks.com/almanac/properties/t/transition/)). Wenn Du dich von den anderen Begriffen erschlagen fühlst, dann nimm dir ein paar Tage Zeit um dich damit zu beschäftigen. Du hast so viel Zeit wie Du brauchst. Wir haben auch eine Liste mit kostenlosen Videokursen und Artikeln zur Web Entwicklung zusammengestellt, die Du dir anschauen kannst auch wenn du noch nie für das Internet programmiert hast:
 
 * [Coding with Mosh (YouTube)](https://www.youtube.com/c/programmingwithmosh/featured)
 * [Einführung in HTML](https://www.youtube.com/watch?v=qz0aGYrrlhU)
